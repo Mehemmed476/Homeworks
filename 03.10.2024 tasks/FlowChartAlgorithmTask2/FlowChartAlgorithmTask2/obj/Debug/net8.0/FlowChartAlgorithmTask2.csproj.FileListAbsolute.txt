@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/bin/Debug/net8.0/FlowChartAlgorithmTask2
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/bin/Debug/net8.0/FlowChartAlgorithmTask2.deps.json
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/bin/Debug/net8.0/FlowChartAlgorithmTask2.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/bin/Debug/net8.0/FlowChartAlgorithmTask2.dll
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/bin/Debug/net8.0/FlowChartAlgorithmTask2.pdb
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.dll
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/refint/FlowChartAlgorithmTask2.dll
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.pdb
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/FlowChartAlgorithmTask2.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/FlowChartAlgorithmTask2/FlowChartAlgorithmTask2/obj/Debug/net8.0/ref/FlowChartAlgorithmTask2.dll
