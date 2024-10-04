@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/bin/Debug/net8.0/ArrayTasks
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/bin/Debug/net8.0/ArrayTasks.deps.json
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/bin/Debug/net8.0/ArrayTasks.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/bin/Debug/net8.0/ArrayTasks.dll
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/bin/Debug/net8.0/ArrayTasks.pdb
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.dll
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/refint/ArrayTasks.dll
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.pdb
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ArrayTasks.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/ArrayTasks/ArrayTasks/obj/Debug/net8.0/ref/ArrayTasks.dll
