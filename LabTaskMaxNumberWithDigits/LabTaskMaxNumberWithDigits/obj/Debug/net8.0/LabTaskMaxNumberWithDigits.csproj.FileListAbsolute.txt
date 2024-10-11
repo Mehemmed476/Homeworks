@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\bin\Debug\net8.0\LabTaskMaxNumberWithDigits.exe
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\bin\Debug\net8.0\LabTaskMaxNumberWithDigits.deps.json
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\bin\Debug\net8.0\LabTaskMaxNumberWithDigits.runtimeconfig.json
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\bin\Debug\net8.0\LabTaskMaxNumberWithDigits.dll
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\bin\Debug\net8.0\LabTaskMaxNumberWithDigits.pdb
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.dll
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\refint\LabTaskMaxNumberWithDigits.dll
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.pdb
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\LabTaskMaxNumberWithDigits.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\LabTaskMaxNumberWithDigits\LabTaskMaxNumberWithDigits\obj\Debug\net8.0\ref\LabTaskMaxNumberWithDigits.dll
