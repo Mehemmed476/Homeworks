@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\bin\Debug\net8.0\MethodForFindWordIntoTheCentence.exe
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\bin\Debug\net8.0\MethodForFindWordIntoTheCentence.deps.json
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\bin\Debug\net8.0\MethodForFindWordIntoTheCentence.runtimeconfig.json
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\bin\Debug\net8.0\MethodForFindWordIntoTheCentence.dll
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\bin\Debug\net8.0\MethodForFindWordIntoTheCentence.pdb
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.dll
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\refint\MethodForFindWordIntoTheCentence.dll
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.pdb
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\MethodForFindWordIntoTheCentence.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\MethodForFindWordIntoTheCentence\MethodForFindWordIntoTheCentence\obj\Debug\net8.0\ref\MethodForFindWordIntoTheCentence.dll
