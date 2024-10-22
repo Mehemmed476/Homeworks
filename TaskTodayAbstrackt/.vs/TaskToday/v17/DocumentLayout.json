@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|c:\\users\\ii novbe\\source\\repos\\tasktoday\\tasktoday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|solutionrelative:tasktoday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|c:\\users\\ii novbe\\source\\repos\\tasktoday\\tasktoday\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|solutionrelative:tasktoday\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|c:\\users\\ii novbe\\source\\repos\\tasktoday\\tasktoday\\models\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|solutionrelative:tasktoday\\models\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|c:\\users\\ii novbe\\source\\repos\\tasktoday\\tasktoday\\models\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC580896-A0A0-4AAE-98A1-1061AC61254A}|TaskToday\\TaskToday.csproj|solutionrelative:tasktoday\\models\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TaskToday\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Models\\Employee.cs",
+              "RelativeToolTip": "TaskToday\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:40:50.49Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Models\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "TaskToday\\Models\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Models\\SalariedEmployee.cs",
+              "RelativeToolTip": "TaskToday\\Models\\SalariedEmployee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:48:18.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Models\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "TaskToday\\Models\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Models\\HourlyEmployee.cs",
+              "RelativeToolTip": "TaskToday\\Models\\HourlyEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:46:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Program.cs",
+              "RelativeDocumentMoniker": "TaskToday\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\TaskToday\\TaskToday\\Program.cs",
+              "RelativeToolTip": "TaskToday\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:39:14.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
