@@ -46,5 +46,6 @@ while (running)
     else
     {
         Console.WriteLine("Please check type");
+        continue;
     }
 }
