@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/bin/Debug/net8.0/StudentService
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/bin/Debug/net8.0/StudentService.deps.json
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/bin/Debug/net8.0/StudentService.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/bin/Debug/net8.0/StudentService.dll
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/bin/Debug/net8.0/StudentService.pdb
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.dll
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/refint/StudentService.dll
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.pdb
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/StudentService.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/StudentService/StudentService/obj/Debug/net8.0/ref/StudentService.dll
