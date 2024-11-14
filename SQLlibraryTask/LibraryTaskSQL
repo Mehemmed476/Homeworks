@@ -1,0 +1,100 @@
+CREATE DATABASE LibraryDB
+
+USE LibraryDB
+
+CREATE TABLE Authors(
+    id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(30) NOT NULL,
+    Surname NVARCHAR(30) NOT NULL
+)
+
+CREATE TABLE Books(
+    id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100)  CHECK (LEN(Name) BETWEEN 2 AND 100),
+    PageCount INT CHECK (PageCount >= 10),
+    AuthorId INT,
+    FOREIGN KEY (AuthorId) REFERENCES Authors(id)
+)
+
+CREATE VIEW SelectLibraryDataVW AS
+SELECT 
+    B.id AS ID,
+    B.Name AS BookName,
+    B.PageCount,
+    A.Name + ' ' + A.Surname AS AuthorFullName
+FROM
+    Books AS B
+INNER JOIN
+    Authors AS A ON A.id = B.AuthorId
+
+
+CREATE PROCEDURE SearchBooksByAuthorOrNamee (@Search NVARCHAR(100))
+AS
+BEGIN
+    SELECT  
+        B.id AS ID,
+        B.Name AS BookName,
+        B.PageCount,
+        A.Name + ' ' + A.Surname AS AuthorFullName
+    FROM
+        Books AS B
+    INNER JOIN
+        Authors AS A ON A.id = B.AuthorId
+    WHERE
+        B.Name LIKE '%' + @Search + '%'
+        OR A.Name LIKE '%' +  @Search + '%'
+END
+
+
+CREATE FUNCTION GetBookCountByPageCount (@MinCount INT = 10)
+RETURNS INT
+AS
+BEGIN
+    DECLARE @BookCount INT
+
+    SELECT
+        @BookCount = Count(*)
+    FROM
+        Books
+    WHERE   
+        PageCount > @MinCount
+    RETURN @BookCount
+END
+
+INSERT INTO Authors (Name, Surname) VALUES ('George', 'Orwell')
+INSERT INTO Authors (Name, Surname) VALUES ('Jane', 'Austen')
+INSERT INTO Authors (Name, Surname) VALUES ('Mark', 'Twain')
+INSERT INTO Authors (Name, Surname) VALUES ('J.K.', 'Rowling')
+INSERT INTO Authors (Name, Surname) VALUES ('J.R.R.', 'Tolkien')
+
+
+
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (1, '1984', 328)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (1, 'Animal Farm', 112)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (2, 'Pride and Prejudice', 279)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (2, 'Sense and Sensibility', 400)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (3, 'Adventures of Huckleberry Finn', 366)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (3, 'The Adventures of Tom Sawyer', 274)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (4, 'Harry Potter and the Philosopher''s Stone', 223)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (4, 'Harry Potter and the Chamber of Secrets', 251)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (5, 'The Hobbit', 310)
+INSERT INTO Books (AuthorId, Name, PageCount) VALUES (5, 'The Lord of the Rings', 1178)
+
+
+
+
+
+--View work
+SELECT * FROM SelectLibraryDataVW
+
+
+--Procedure Work
+EXEC SearchBooksByAuthorOrNamee @Search = '1984'
+
+EXEC SearchBooksByAuthorOrNamee @Search = 'Harry Potter'
+
+EXEC SearchBooksByAuthorOrNamee @Search = 'Mark'
+
+
+--Function Work
+SELECT dbo.GetBookCountByPageCount(100)
